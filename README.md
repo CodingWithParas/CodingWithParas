@@ -21,3 +21,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 ## Platforms 👾 :
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,ps,idea,vscode,visualstudio,postman)](https://skillicons.dev)
+
+## 🧾 GitHub stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithParas)](https://github.com/CodingWithParas/github-readme-stats)
+
+## 😎 Fun Fact :
+
+### Code is not just about writing instructions, it's about telling a story 🎫
