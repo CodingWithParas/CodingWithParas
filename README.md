@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 # Tech Stack 💻 : 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,java,mysql,dart,firebase,cpp,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,java,mysql,dart,firebase,cpp,fastapi,js,mongodb,nodejs)](https://skillicons.dev)
 
 
 ## Platforms 👾 :
